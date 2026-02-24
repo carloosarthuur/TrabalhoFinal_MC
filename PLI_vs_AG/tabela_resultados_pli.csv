@@ -1,0 +1,8 @@
+Instancia,Status,Tempo_s,Custo_Total
+i01,Optimal,0.29,500.0
+i02,Optimal,0.42,605.0
+i03,Optimal,0.92,350.0
+i04,Optimal,2.29,307.0
+i05,Optimal,6.01,1360.0
+i06,Optimal,4.23,194.0
+i18,Timeout (Feasible),302.66 ,3862.0

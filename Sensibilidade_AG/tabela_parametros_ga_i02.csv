@@ -1,0 +1,4 @@
+Instancia,Populacao,Geracoes,Mutacao,Melhor_Fitness,Fitness_Medio,Tempo_Medio_s
+i02,100,100,0.05,805,877.0,1.33
+i02,100,250,0.05,705,756.0,3.46
+i02,100,500,0.05,690,710.0,6.96

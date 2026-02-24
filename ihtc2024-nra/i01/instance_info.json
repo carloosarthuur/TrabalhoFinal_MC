@@ -1,0 +1,27 @@
+{
+  "days": 14,
+  "skill_levels": 3,
+  "shift_types": [
+    "early",
+    "late",
+    "night"
+  ],
+  "age_groups": [
+    "infant",
+    "adult",
+    "elderly"
+  ],
+  "weights": {
+    "S2_room_nurse_skill": 10,
+    "S3_continuity_of_care": 1,
+    "S4_nurse_excessive_workload": 10
+  },
+  "stats": {
+    "total_persons": 24,
+    "total_occupied_room_shifts": 153,
+    "total_nurses": 12,
+    "total_nurse_working_shifts": 104,
+    "total_rooms": 4,
+    "patients_placed": 21
+  }
+}
