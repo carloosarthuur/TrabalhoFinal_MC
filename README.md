@@ -14,6 +14,11 @@ O repositório é composto por dois scripts principais:
    
 2. **`modelo_genetico.py` (Algoritmo Genético):** Uma meta-heurística estocástica projetada para encontrar soluções de alta qualidade em um tempo viável. Utiliza operadores de Seleção por Torneio, Crossover Uniforme e Mutação focada na disponibilidade dos turnos.
 
+Alem dos Scripts Temos Algumas Pastas com conteudos Importantes
+
+3. **`ihtc2024-nra`:** arquivo contendo as instancias do problema utilizadas
+4.  **`PLI_vs_AG`:** arquivo contendo os dois csvs utilizados nas tabeelas do artigo alem de uma pasta com os resultados individuais gerados pelo algoritimo genetico um a um (usados para compor `tabela_resultados_ag`) e uma pasta com os graficos gerados para cada instancia
+5. **`Sensibilidade_AG`:** é onde foi armazenado todos os csvs gerados utilizando o `modelo_genetico.py`, foram utilizados para criar `tabela_parametros_ga_sensibilidade`
 ---
 
 ## Pré-requisitos e Instalação
